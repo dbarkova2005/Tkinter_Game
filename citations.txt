@@ -1,0 +1,29 @@
+1. Brick wall
+    Author: Tilation
+    Source: https://tilation.itch.io/multi-size-mythical-dungeon-tileset
+    License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+
+2. Chest
+   Author: Elthen's Pixel Art Shop
+   Source: https://elthen.itch.io/pixel-art-destructible-objects
+   License: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/) 
+
+3. Female Adventurer Sprite
+   Author: Elthen's Pixel Art Shop
+   Source: https://elthen.itch.io/2d-pixel-art-female-adventurer-sprites
+   License: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/) 
+
+4. Scroll
+   Author: Elthen's Pixel Art Shop
+   Source: https://elthen.itch.io/2d-pixel-art-dungeon-collectables
+   License: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/) 
+
+5. Key
+   Author: Elthen's Pixel Art Shop
+   Source: https://elthen.itch.io/2d-pixel-art-dungeon-collectables
+   License: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/) 
+
+6. Pistol
+   Author: SnoopethDuckDuck
+   Source: https://snoopethduckduck.itch.io/guns
+   License: CC0 (https://creativecommons.org/public-domain/cc0/) 
